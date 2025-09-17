@@ -1,0 +1,12 @@
+{
+	"info": {
+		"id": "en.mangabuddy",
+		"name": "mangabuddy",
+		"version": 1,
+		"url": "https://mangabuddy.com",
+		"contentRating": 0,
+		"languages": [
+			"en"
+		]
+	}
+}

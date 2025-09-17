@@ -1,0 +1,14 @@
+/workspaces/Kms/mangabuddy/target/wasm32-unknown-unknown/release/deps/serde-4c1918bd51e08d9c.d: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/integer128.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/ser.rs /workspaces/Kms/mangabuddy/target/wasm32-unknown-unknown/release/build/serde-7b6b1e99ba6b6c36/out/private.rs
+
+/workspaces/Kms/mangabuddy/target/wasm32-unknown-unknown/release/deps/libserde-4c1918bd51e08d9c.rlib: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/integer128.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/ser.rs /workspaces/Kms/mangabuddy/target/wasm32-unknown-unknown/release/build/serde-7b6b1e99ba6b6c36/out/private.rs
+
+/workspaces/Kms/mangabuddy/target/wasm32-unknown-unknown/release/deps/libserde-4c1918bd51e08d9c.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/integer128.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/mod.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/de.rs /home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/ser.rs /workspaces/Kms/mangabuddy/target/wasm32-unknown-unknown/release/build/serde-7b6b1e99ba6b6c36/out/private.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/integer128.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/mod.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/de.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.225/src/private/ser.rs:
+/workspaces/Kms/mangabuddy/target/wasm32-unknown-unknown/release/build/serde-7b6b1e99ba6b6c36/out/private.rs:
+
+# env-dep:OUT_DIR=/workspaces/Kms/mangabuddy/target/wasm32-unknown-unknown/release/build/serde-7b6b1e99ba6b6c36/out

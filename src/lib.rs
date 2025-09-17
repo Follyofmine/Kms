@@ -1,6 +1,6 @@
 //! Main library file for the Aidoku multi-source extension
 
-mod sources;
+pub mod sources;
 
 use aidoku::prelude::*;
 use sources::mangabuddy;
@@ -8,6 +8,6 @@ use sources::mangabuddy;
 // Register all sources here
 #[no_mangle]
 pub extern "C" fn register_sources() {
-    mangabuddy::register();
-    // Add more sources here in the future
+    // Sources are registered via macros in their respective modules.
+    // Add more sources here in the future if needed.
 }
