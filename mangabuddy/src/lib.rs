@@ -72,9 +72,7 @@ impl ListingProvider for Mangabuddy {
 
 impl Home for Mangabuddy {
 	fn get_home(&self) -> Result<HomeLayout> {
-		Ok(HomeLayout {
-			components: vec![],
-		})
+		Ok(HomeLayout { components: vec![] })
 	}
 }
 
